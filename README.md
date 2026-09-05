@@ -77,7 +77,7 @@ pip install streamlit pandas numpy plotly
    ```
    📂 AI Finance Manager/
    ├── finance_copilot_app_v10.py      # Streamlit Dashboard
-   ├── finance_controller_agent_v4.py   # AI Matching Engine
+   ├── finance_controller_agent_v3.py   # AI Matching Engine
    ├── mascot_happy.png                 # Happy Mascot Art
    ├── mascot_neutral.png               # Neutral Mascot Art
    └── mascot_panic.png                 # Panic Mascot Art
