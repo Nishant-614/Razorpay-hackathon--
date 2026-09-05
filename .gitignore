@@ -1,0 +1,11 @@
+# Python standard ignore list
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Streamlit run files
+.streamlit/
+
+# Local temporary upload streams
+temp_*.csv
